@@ -16,30 +16,37 @@ Welcome to the project! Below are some key screenshots that demonstrate the user
 
 ### 1. **Welcome Screen**
 ![Welcome Screen](images/Welcome.png)
+
 This is the initial welcome screen of the application that users see when they launch it.
 
 ### 2. **Admin Menu**
 ![Admin Menu](images/Admin_menu.png)
+
 The Admin Menu provides the administrator with options to manage flights, users, and settings. It is the central hub for administrators.
 
 ### 3. **Customer Add**
 ![Customer Add](images/Customer_add.png)
+
 This screen allows the admin to add new customer details, such as personal information and preferences.
 
 ### 4. **Display Menu**
 ![Display Menu](images/Display_menu.png)
+
 The Display Menu presents the available options for users to view and manage flight information.
 
 ### 5. **Flight Menu**
 ![Flight Menu](images/flight_menu.png)
+
 The Flight Menu allows users to explore flight options, search for available flights, and book tickets.
 
 ### 6. **Flights Overview**
 ![Flights Overview](images/flights.png)
+
 This screen shows an overview of available flights, including flight numbers, destinations, and seat availability.
 
 ### 7. **Homepage**
 ![Homepage](images/Homepage.png)
+
 The homepage displays the main dashboard and provides quick access to the core functionalities of the application.
 
 ---
