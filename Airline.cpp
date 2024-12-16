@@ -6,10 +6,9 @@
 #include<stdlib.h>
 #include<iomanip>
 #include<iostream>
-using namespace std;
-
 #include "windows.h"
 
+using namespace std;
 void gotoxy(int x, int y) 
 { 
     COORD coord;
@@ -61,7 +60,7 @@ void finput(Flight &f){
        gotoxy(21,8);cout<<"Enter Number of Seats: ";cin>>f.no_seats;
        gotoxy(21,10);cout<<"Enter Price of One Seat: ";cin>>f.seatp;
        gotoxy(12,12);cout<<"Enter Departure Date and Time('dd/mm/yyyy at _h_min') as a string: \n";
-       gotoxy(15,13);gets(f.dtime);
+       gotoxy(15,13); gets(f.dtime);
        f.fno=flightno();
        gotoxy(21,15);cout<<"Flight number: "<<f.fno;
 
